@@ -1,0 +1,2 @@
+# soc
+soc homelab setup 
